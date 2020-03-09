@@ -1,24 +1,17 @@
-table{
-    font-family: Roboto, sans-serif;
-    text-align: center;
-    border-collapse: collapse;
-    
-}
-th{
- background-color:#ecce6d ;
-}
-tr{
-    border-bottom-style: 1px dotted #b0a160;
-    padding-left: 4px 40px 4px 0;
-}
-.increase{
-    background-color: #d6f7d6;
-}
-.decrease{
-    background-color:#f5dada ;
-}
-.normal{
-    background-color: rgb(203, 231, 255);
+#Lyaman{
+    block-size: 50px;  
+    padding: 15px;
 }
 
+img{
+    width: 200px;
+    right:50px;
+    position: absolute;
+    block-size: 220px;
+    bottom: 330px;
 
+}
+.nachalo{
+    margin: 0px;
+    left: 15px;
+}
