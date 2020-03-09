@@ -1,0 +1,74 @@
+img{
+    width: 200px;
+    right:50px;
+    position: absolute;
+    block-size: 220px;
+    bottom: 330px;
+
+}
+#main {
+    text-align:center;
+    font-size: 25px;
+    background-color: blue;
+    margin-top: 140px;
+
+}
+#main a {
+    color:white;
+    text-decoration: none;
+    vertical-align: middle;
+
+}
+#Job{
+    font-size:30 px;
+    background-color: green;
+    padding: 10px;
+    margin: 20 px;
+    text-align: left;
+    width: 100px;
+}
+#Job a {
+    color:white;
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    color: red;
+    block-size: 50px;  
+    padding: 15px;
+}
+
+#Edu{
+    font-size:30 px;
+    background-color: green;
+    padding: 10px;
+    margin: 20 px;
+    text-align: left;
+    width: 100px;
+}
+#Edu a {
+    color:white;
+    text-decoration: none;
+}
+
+table, tr, td{
+    border: 2px solid blue;
+
+}
+table {
+    border-collapse: collapse;
+    margin:auto;
+}
+li {
+    margin: 10px;
+}
+h3 {
+    color: navy;
+    margin-bottom:0px;
+    padding: 0px;
+    
+}
+.work{
+    margin:0px;
+    padding:0px;
+}
